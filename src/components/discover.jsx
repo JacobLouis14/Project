@@ -3,7 +3,7 @@ import "./discover.css";
 import { motion } from "framer-motion";
 import { useNavigate } from "react-router-dom";
 
-export default function iscover() {
+export default function Discover() {
   const navigate = useNavigate();
   const courseViewHandler = () => {
     navigate("/courses");

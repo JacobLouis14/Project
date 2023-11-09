@@ -1,7 +1,7 @@
 import React from "react";
-import Header from "../components/header";
+import Header from "../components/Header";
 import Landing from "../components/Landing";
-import Footer from "../components/footer";
+import Footer from "../components/Footer";
 import AboutContent from "../components/AboutContent";
 
 export default function ({ heading }) {
