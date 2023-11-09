@@ -11,7 +11,7 @@ export default function Home({ heading }) {
       <div
         style={{
           height: "100vh",
-          backgroundImage: `url("src/assets/sketch-many-bulbs-background.jpg")`,
+          backgroundImage: `url("https://img.freepik.com/free-photo/sketch-many-bulbs-background_1379-291.jpg?w=1060&t=st=1699528102~exp=1699528702~hmac=436004cbea85f0e644e2d30804f70b11336d8026f4ad05c7f2f446d06db52b47")`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",
