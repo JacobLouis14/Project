@@ -1,0 +1,23 @@
+.first-col-container {
+  padding-top: 4rem;
+  padding-left: 3rem;
+}
+.first-col-container h3 {
+  font-size: 4rem;
+}
+.point-box {
+  border-radius: 10px;
+  padding: 1rem;
+}
+.second-col-container {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.shapes {
+  padding: 1rem;
+  background-color: white;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  max-height: 50%;
+}

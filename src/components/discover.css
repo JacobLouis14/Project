@@ -1,0 +1,30 @@
+.discover-container h2 {
+  font-size: 5rem;
+  font-weight: bold;
+}
+.discover-container p {
+  font-size: large;
+}
+ion-icon {
+  font-size: 2.5rem;
+}
+.course-box {
+  cursor: pointer;
+}
+
+.course-box :hover ion-icon {
+  color: white;
+}
+.view-all-box {
+  display: flex;
+  justify-content: center;
+  padding-top: 3rem;
+  color: green;
+  font-weight: bold;
+  cursor: pointer;
+}
+@media (max-width: 800px) {
+  .discover-container h2 {
+    font-size: 3rem;
+  }
+}
