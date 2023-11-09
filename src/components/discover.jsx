@@ -5,6 +5,7 @@ import { useNavigate } from "react-router-dom";
 
 export default function Discover() {
   const navigate = useNavigate();
+
   const courseViewHandler = () => {
     navigate("/courses");
   };
