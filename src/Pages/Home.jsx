@@ -2,7 +2,7 @@ import React from "react";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import Landing from "../components/Landing";
-import Discover from "../components/Discover";
+import Discover from "../components/discover";
 import Description from "../components/Description";
 
 export default function Home({ heading }) {
